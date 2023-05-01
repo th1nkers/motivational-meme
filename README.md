@@ -1,0 +1,1 @@
+Refreshing my css knowledge with a very basic web-page which includes a poster on it's home screen. Also, used google font to get the right look for the font impression.
